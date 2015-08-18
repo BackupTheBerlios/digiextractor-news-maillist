@@ -1,0 +1,34 @@
+From thehawk at users.berlios.de  Wed Nov 22 17:53:14 2006
+From: thehawk at users.berlios.de (The Hawk)
+Date: Wed, 22 Nov 2006 17:53:14 +0100
+Subject: [Digiextractor-news] kleines Update - Digiextractor 0.5.1 fertig
+Message-ID: <4564807A.4030306@users.berlios.de>
+
+Ich freue mich bekanntgeben zu dürfen, dass es nur wenige Tage nach der 
+ersten Version schon ein kleines Update gibt.
+
+Digiextractor 0.5.1 behebt 2 kleine Fehler und bringt eine kleine Neuerung.
+
+http://developer.berlios.de/project/showfiles.php?group_id=4295
+
+Die Änderungen im Detail:
+
+- Das Programm prüft jetzt, ob jeder ausgewählten Aufnahme eine 
+Ausgabedatei zugewiesen wurde.
+
+- Die vorgeschlagenen Dateinamen sollten jetzt keine Zeichen mehr 
+enthalten, die in Dateinamen unzulässig sind. (Führte bisher zu leeren 
+Ausgabedateien)
+
+- Der Name und Pfad der Ausgabedatei kann nun direkt in das Feld 
+eingetragen werden und muss nichtmehr über den Dateiauswahldialog 
+ausgewählt werden.
+
+Fehlermeldungen und Anregungen bitte ich wie immer per E-Mail an mich zu 
+richten.
+
+mfg,
+
+Hawk
+
+

@@ -1,0 +1,29 @@
+From TheHawk at digiextractor.de  Wed Apr  4 17:11:40 2007
+From: TheHawk at digiextractor.de (theHawk)
+Date: Wed, 04 Apr 2007 17:11:40 +0200
+Subject: [Digiextractor-news] Neue DigiExtractor Version
+Message-ID: <4613C02C.8030102@digiextractor.de>
+
+Es ist mal wieder soweit. Es gibt eine neue Version vom DigiExtractor.
+
+Änderungen in Version 0.8.0
+-Verbesserte Fehlerbehandlung
+-Speicherverbrauch reduziert
+-Einstellungen Dialog hinzugefügt
+-Sprach-Einstellung in den Einstellungs-Dialog verlegt
+-Debug mode kann nun aktiviert werden
+-Log-Level ist einstellbar
+-Datum der Aufnahme kann Dateinamen vorangestellt werden (praktisch für 
+Serien)
+-Pfade werden jetzt korrekt gemerkt
+-mehrere Bugfixes
+
+Die neue Version steht unter folgender Adresse zum Download bereit:
+
+http://prdownload.berlios.de/digiextractor/digiextractor-0.8.0.zip
+
+Grüße,
+
+theHawk
+
+

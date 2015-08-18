@@ -1,0 +1,23 @@
+From thehawk at users.berlios.de  Sun Feb  4 19:07:17 2007
+From: thehawk at users.berlios.de (TheHawk)
+Date: Sun, 04 Feb 2007 19:07:17 +0100
+Subject: [Digiextractor-news] DigiExtractor 0.6.0b
+Message-ID: <45C620D5.8050304@users.berlios.de>
+
+Hallo,
+
+mit dieser E-Mail möchte ich auf die neueste Version des DigiExtractor 
+hinweisen. Die Datei kann wie gewöhnlich von der Projektseite unter 
+http://digiextractor.berlios.de heruntergeladen werden.
+
+Die neue Version behebt einen Fehler, der bei manchen Usern dazu führte, 
+dass die Aufnahmeliste leer blieb. Der Fehler trat vor allem dann  auf, 
+wenn Aufnahmen auf dem Digicorder gelöscht wurden.
+Sollte das Problem auch weiterhin bestehen, bitte ich darum mir dies 
+entweder im Forum oder per E-Mail mitzuteilen.
+
+Mit freundlichen Grüßen,
+
+Hawk
+
+
